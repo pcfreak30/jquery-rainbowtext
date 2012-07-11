@@ -74,8 +74,3 @@
         }, this.options.speed);
     }
 })(jQuery);
-
-
-$(function () {
-    $("p").rainbowText();
-});
